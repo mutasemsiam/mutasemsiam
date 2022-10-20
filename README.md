@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Mutasem Siam
+# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# My name is Mutasem Siam
 #### I'm a Full Stack Web Developer
+
 Skills: Python / Django / Flask / JS / HTML / CSS
-
-
 <!--
 **mutasemsiam/mutasemsiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
