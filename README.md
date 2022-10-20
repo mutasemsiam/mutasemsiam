@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Mutasem Siam
-
+![I'm a Full Stack Web Developer]
+Skills: Python / Django / Flask / JS / HTML / CSS
 
 
 <!--
