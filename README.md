@@ -1,6 +1,6 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # My name is Mutasem Siam
-#### I'm a Full Stack Web Developer
+#### I'm a Full Stack Developer
 
 Skills: Java / Spring Boot / Python / Django / Flask / JS / HTML / CSS / MySQL
 <!--
